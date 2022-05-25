@@ -4,7 +4,7 @@
   инженером по тестированию.:sunglasses:
   
   
-[![trophy](https://github-profile-trophy.vercel.app/?username=Native1331)] 
+![trophy](https://github-profile-trophy.vercel.app/?username=Native1331)
   
 
   
