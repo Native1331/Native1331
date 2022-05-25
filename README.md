@@ -4,6 +4,7 @@
 Меня зовут Наталья, с июля 2021 года я работаю инженером по тестированию.:sunglasses:</br>
 
 ![trophy](https://github-profile-trophy.vercel.app/?username=Native1331)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
   
 
   
