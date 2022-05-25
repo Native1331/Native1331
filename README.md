@@ -5,7 +5,7 @@
 
 [![Native1331 GitHub stats](https://github-readme-stats.vercel.app/api?username=Native1331)]
 (https://github.com/Native1331/github-readme-stats)
-![This is a picture] ()
+
 
 ## :trophy:Технологии и инструменты
 
