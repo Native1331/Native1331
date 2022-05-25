@@ -3,7 +3,7 @@
 <h2>Рада приветствовать на моей странице!:tada:</br>
 Меня зовут Наталья, с июля 2021 года я работаю инженером по тестированию.:sunglasses:</br>
 
-[![Native1331 GitHub stats](https://github-readme-stats.vercel.app/api?username=Native1331)
+![Native1331 GitHub stats](https://github-readme-stats.vercel.app/api?username=Native1331)
 
 
 ## :trophy:Технологии и инструменты, используемые в работе
