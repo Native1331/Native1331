@@ -58,7 +58,7 @@
 ## :clipboard: Сборка в Jenkins
 ### <a target="_blank" href="https://jenkins.autotests.cloud/job/HeadHunter3/">Сборка в Jenkins</a>
 
-![This is an image](design/pictures/Jenkins.jpeg)
+![This is an image](design/pictures/jenkins.jpeg)
 
 
 ###  :clipboard: Параметры сборки в Jenkins:
