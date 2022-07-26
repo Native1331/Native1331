@@ -11,7 +11,7 @@
 ![This is an image](/design/icons/Java.png)![This is an image](/design/icons/Gradle.png)![This is an image](/design/icons/Intelij_IDEA.png)![This is an image](/design/icons/Selenide.png)![This is an image](/design/icons/Selenoid.png)![This is an image](/design/icons/JUnit5.png)![This is an image](/design/icons/Jenkins.png)![This is an image](/design/icons/Allure_Report.png)![This is an image](/design/icons/AllureTestOps.png)![This is an image](/design/icons/Telegram.png)![This is an image](/design/icons/Jira.png)</br>
 
 
-## Дипломная работа выпускницы школы автотестирования "QA GURU"! <a href="#https://github.com/Native1331/HeadHunterTests">Ссылка на проект</a> /br>
+## Дипломная работа выпускницы школы автотестирования "QA GURU"! <a href="https://github.com/Native1331/HeadHunterTests">Ссылка на проект</a> /br>
 
 # Проект по автоматизации тестирования для  Head Hunter, сайта поиска работодателя и работника	:star2:
 ## <a target="_blank" href="https://spb.hh.ru/">Веб сайт Head Hunter</a>
