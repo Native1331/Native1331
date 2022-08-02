@@ -14,7 +14,7 @@
 
 |<img width="30%" title="QAGuru.png" src="logo/study/QAGuru.png">|[qa.guru](https://qa.guru)| Automation QA Engineer (2022)|
 |:-|:-|:-|
-|<img width="25%" title="https://github.com/Native1331/Native1331/blob/main/design/icons/cropped-cropped-cropped-site_logo_color_ru.png" src="logo/study/горный.jpeg">|[Mining University](https://www.spmi.ru/)| Logistics and management in transport(2015)|
+|<img width="25%" title="Northwest Public Service Academy" src="/design/icons/cropped-cropped-cropped-site_logo_color_ru.png">|[](https://www.ranepa.ru/)| Manager (2007)|
 
 
 <a href="https://drive.google.com/file/d/12PQPcQSeRExTkMAkppkgnvdqhEJ23U5P/view?usp=sharing">My certificate</a>
