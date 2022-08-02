@@ -10,11 +10,11 @@
 ## :trophy:Технологии и инструменты, используемые в работе
 
 ![This is an image](/design/icons/Java.png)![This is an image](/design/icons/Gradle.png)![This is an image](/design/icons/Intelij_IDEA.png)![This is an image](/design/icons/Selenide.png)![This is an image](/design/icons/Selenoid.png)![This is an image](/design/icons/JUnit5.png)![This is an image](/design/icons/Jenkins.png)![This is an image](/design/icons/Allure_Report.png)![This is an image](/design/icons/AllureTestOps.png)![This is an image](/design/icons/Telegram.png)![This is an image](/design/icons/Jira.png)</br>
-### My education experience
-
-|<img width="25%" title="QAGuru.png" src="design/icons/QAGuru.png">|[qa.guru](https://qa.guru)| Automation QA Engineer (2022)|
-|:-|:-|:-|
+### My education </br>
 |<img width="25%" title="Northwest Public Service Academy" src="/design/icons/cropped-cropped-cropped-site_logo_color_ru.png">|[](https://www.ranepa.ru/)| Manager (2007)|
+|<img width="25%" title="QAGuru.png" src="design/icons/QAGuru.png">|[qa.guru](https://qa.guru)| Automation QA Engineer (2022)|
+|:-|:-|
+
 
 
 <a href="https://drive.google.com/file/d/12PQPcQSeRExTkMAkppkgnvdqhEJ23U5P/view?usp=sharing">My certificate</a>
