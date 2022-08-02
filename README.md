@@ -1,10 +1,10 @@
 <h1>Добро пожаловать!</br> 
   Hi there, I'm Natalya <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
-<h2>Im Junior QA Engineer:sunglasses:</h2></br>
-## :trophy:  My tools and technology:
+<h2>Im Junior QA Engineer:sunglasses:</h2>
+<h2> :trophy:  My tools and technology:</h2>
 
 ![This is an image](/design/icons/Java.png)![This is an image](/design/icons/Gradle.png)![This is an image](/design/icons/Intelij_IDEA.png)![This is an image](/design/icons/Selenide.png)![This is an image](/design/icons/Selenoid.png)![This is an image](/design/icons/JUnit5.png)![This is an image](/design/icons/Jenkins.png)![This is an image](/design/icons/Allure_Report.png)![This is an image](/design/icons/AllureTestOps.png)![This is an image](/design/icons/Telegram.png)![This is an image](/design/icons/Jira.png)</br>
-## My education: 
+## :trophy: My education: 
 
 |<img width="30%" title="Northwest Public Service Academy" src="/design/icons/cropped-cropped-cropped-site_logo_color_ru.png">|[RANHIGS](https://www.ranepa.ru/)| Manager (2007)|
 |:-|:-|:-|
@@ -12,7 +12,7 @@
 
 ![Native1331 GitHub stats](https://github-readme-stats.vercel.app/api?username=Native1331)
 
-<a href="https://drive.google.com/file/d/12PQPcQSeRExTkMAkppkgnvdqhEJ23U5P/view?usp=sharing">My certificate</a>
+<a href="https://drive.google.com/file/d/12PQPcQSeRExTkMAkppkgnvdqhEJ23U5P/view?usp=sharing"><h2>:star2: My certificate</h2></a>
 
 ## Дипломная работа выпускницы школы автотестирования "QA GURU"! <a href="https://github.com/Native1331/HeadHunterTests">Ссылка на проект</a> 
 
