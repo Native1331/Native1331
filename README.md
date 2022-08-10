@@ -12,7 +12,10 @@
 
 ![Native1331 GitHub stats](https://github-readme-stats.vercel.app/api?username=Native1331)
 
-<a href="https://drive.google.com/file/d/12PQPcQSeRExTkMAkppkgnvdqhEJ23U5P/view?usp=sharing"><h2>:star2: My certificate</h2></a>
+<h1>:star2: My certificates:</h1></a>
+<a href="https://drive.google.com/file/d/12PQPcQSeRExTkMAkppkgnvdqhEJ23U5P/view?usp=sharing"><h2> QA Guru</h2></a>
+<a href=""><h2> Software Testing</h2></a>
+
 
 ## Дипломная работа выпускницы школы автотестирования "QA GURU"! <a href="https://github.com/Native1331/HeadHunterTests">Ссылка на проект</a> 
 
